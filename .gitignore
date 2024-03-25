@@ -1,0 +1,27 @@
+# vscode & virtual envs
+.idea/
+.vscode/
+*.code-workspace
+venv/
+env/
+
+# build & temp
+*.pyc
+__pycache__/
+*.exe
+*.dll
+*.so
+*.o
+*.a
+
+# data
+*.csv
+*.dat
+*.h5
+*.npz
+
+# checkpoints
+*.pth
+*.ckpt
+*.pt
+*.pkl
