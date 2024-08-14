@@ -1,8 +1,8 @@
 wandb:
   login: 
-    key: "99975cd8f95af3ba68278d2484eb109af43a4a64" ### Login key / Insert your wandb persionel API key!!
+    key: "" ### Login key / Insert your wandb persionel API key!!
   init: ### Ref: https://docs.wandb.ai/ref/python/init
-    entity: "team_lsy" ### Your wandb profile name (=id)
+    entity: "" ### Your wandb profile name (=id)
     group: "" ### Don't change / Ref: https://docs.wandb.ai/guides/runs/grouping
     job_type: "train" ### "data-preprocess", "train", "test", "visualize" etc...
     project: "[Project-1] Paper_PQformer" ### Dont't change
